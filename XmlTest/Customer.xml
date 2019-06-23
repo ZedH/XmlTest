@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer ID="1">
+    <Usename>Rock  Zed</Usename>
+    <FirstName>Rock</FirstName>
+    <LastName>Zed</LastName>
+    <PhoneNo>35481254</PhoneNo>
+  </Customer>
+  <Customer ID="3">
+    <Usename>Dell LI</Usename>
+    <FirstName>Dell</FirstName>
+    <LastName>Li</LastName>
+    <PhoneNo>13324566545</PhoneNo>
+  </Customer>
+  <Customer ID="2598">
+    <Usename>HelloWorld</Usename>
+    <FirstName>Hello</FirstName>
+    <LastName>World</LastName>
+    <PhoneNo>214521</PhoneNo>
+  </Customer>
+</Customers>
